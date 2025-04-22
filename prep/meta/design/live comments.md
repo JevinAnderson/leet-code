@@ -1,6 +1,6 @@
 1. requiremens.js
 core entitities
-ai intervafces
+api intefaces
 data flow
 high level design
 deep dives
@@ -26,4 +26,4 @@ A Layer 7 load balancer, also known as an application load balancer, works at th
 
 morning - wake up, get light, drink saltwater, cold exposure, workout
 linear - focus on deep work - 90 minute work session, 20 minutes off,
-non-linear - focus on the creative work - non sleep deep rest - dr joe despenza meditation - 
+non-linear - focus on the creative work - non sleep deep rest - dr joe despenza meditation -
